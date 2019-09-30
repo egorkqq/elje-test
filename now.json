@@ -1,0 +1,9 @@
+{
+	"build": {
+		"env": {
+			"REACT_APP_HORIZONTAL_IMAGE_PATH": "https://static.aviapark.com/files/155333/960x576_1.png",
+			"REACT_APP_VERTICAL_IMAGE_PATH": "https://static.aviapark.com/files/155333/nc_ss19_620x960px_1.png",
+			"REACT_APP_N": 3
+		}
+	}
+}
